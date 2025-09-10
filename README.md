@@ -1,2 +1,7 @@
-# java-practice
-# Java OOP Projects This repository contains my assignments for Object-Oriented Programming in Java. It includes examples of inheritance, arrays, and database connections.
+# C++ Assignments
+This repository contains my C++ assignments from Austin Community College.  
+
+## Programs included
+- Property Tax Calculator  
+- Division Sales Program  
+- More coming soon...
