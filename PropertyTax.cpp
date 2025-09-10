@@ -12,13 +12,7 @@
 // the tax rate per $100 of assessed value.
 //******************************************************************
 
-/*
-I will abide by the ACC Honor code and answer these following questions with full integrity and honesty, 
-I understand if I answer "False" to any of these questions, I will receive zero for this assignment.
-1. My submission is my own work.
-2. I promise not to share my work with anyone in any form.
-3. I did not use any outside tools (including but not limited to AI chatbots) to complete the Lab assignment.
-*/
+
 
 #include <iostream>
 #include <iomanip> // for setting precision
@@ -51,3 +45,4 @@ int main() {
 
     return 0;
 }
+
