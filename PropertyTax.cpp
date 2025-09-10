@@ -4,8 +4,6 @@
 // Completed : 09/21/2024
 // Status : Complete
 
-// Did your program pass the testing? : Yes
-// Did your program meet the requirements? : Yes
 
 // This program computes the assessed value of a property and the 
 // annual property tax based on the actual value of the property and
@@ -45,4 +43,5 @@ int main() {
 
     return 0;
 }
+
 
